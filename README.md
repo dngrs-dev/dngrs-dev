@@ -61,7 +61,7 @@ I'm open to:
 
 | Project | Description |
 | --- | --- |
-| [monopoly](https://github.com/dngrs-dev/monopoly) | A Python project based around Monopoly game logic and mechanics. |
+| [Deedbound](https://github.com/dngrs-dev/Deedbound) | A browser-playable property-trading board game with a Python rules engine, FastAPI backend, realtime lobbies, and a vanilla web client. |
 | [fandom-telethon-bot](https://github.com/dngrs-dev/fandom-telethon-bot) | A Telegram bot project built with Python and Telethon. |
 
 ---
